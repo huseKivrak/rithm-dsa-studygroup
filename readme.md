@@ -72,4 +72,4 @@ https://algo.monster/problems/stats
 (no actual code, just something Joel mentioned in Private Prep)
 https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin-ebook/dp/B005WSNU84
 
-
+- a la Sean and Colt Steele: https://visualgo.net/en
