@@ -73,3 +73,5 @@ https://algo.monster/problems/stats
 https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin-ebook/dp/B005WSNU84
 
 - a la Sean and Colt Steele: https://visualgo.net/en
+
+- Abdul Bari on YouTube: https://www.youtube.com/@abdul_bari
