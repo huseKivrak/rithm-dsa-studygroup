@@ -12,6 +12,7 @@
  *    - ex/ client submits data live, sorted at a moment's notice
  *  - vs. selection sort, an offline algo
  *
+ *
  * steps:
  * 1. iterate from arr[1] to arr[n] over the array
  * 2. compare the current element (key) to its predecessor
@@ -30,7 +31,7 @@
 
 function insertionSort(arr) {
   for (let i = 1; i < arr.length; i++) {
-    let key = arr[i]
+    let key = arr[i] //currentValue
     let j = i - 1
 
     while (j >= 0 && arr[j] > key) {
@@ -43,4 +44,7 @@ function insertionSort(arr) {
 
   return arr
 }
+
+
+
 
