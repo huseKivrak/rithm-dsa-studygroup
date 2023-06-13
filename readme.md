@@ -1,4 +1,4 @@
-💦Wacky ‘n Wild DSA Wednesdays💦
+DSA Wednesdays
 
 # Structure ideas:
 - Individually research and present different algos (5-10 min) to the group, similar to days 1 & 2 of SIS project
